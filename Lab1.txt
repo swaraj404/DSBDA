@@ -1,0 +1,19 @@
+PROBLEM STATEMENT: -
+
+Perform the following operations using Python on any open source dataset (e.g., data.csv) Import all the required Python Libraries.
+
+1. Locate open source data from the web (e.g. https://www.kaggle.com).
+
+2. Provide a clear description of the data and its source (i.e., URL of the web site).
+
+3. Load the Dataset into the pandas data frame.
+
+4. Data Preprocessing: check for missing values in the data using pandas insult(), describe
+
+function to get some initial statistics. Provide variable descriptions. Types of variables etc. Check the dimensions of the data frame.
+
+5. Data Formatting and Data Normalization: Summarize the types of variables by checking
+
+the data types (i.e., character, numeric, integer, factor, and logical) of the variables in the data set. If variables are not in the correct data type, apply proper type conversions.
+
+6. Turn categorical variables into quantitative variables in Python.
