@@ -1,0 +1,22 @@
+# Large CSV files
+djt_posts_dec2025.csv
+djt_posts_processed.csv
+*_processed.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
